@@ -2,8 +2,6 @@
 
 Trabajo Práctico Integrador · Módulo **Python para Análisis de Datos (ETL)**
 
-**Autor:** Diego Andrés Gamero Cotrina
-
 Un CEO de una startup de Food Delivery quiere expandirse en Estados Unidos. Antes de decidir en qué ciudades invertir, necesita saber dónde están sus competidores, cómo se comportan los precios y si un restaurante caro ofrece mejor calidad. Este proyecto construye un pipeline ETL que limpia los datos crudos de Web Scraping, los carga en una base SQLite y responde esas preguntas con SQL y gráficos.
 
 ---
